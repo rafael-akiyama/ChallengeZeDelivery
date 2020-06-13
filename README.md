@@ -53,8 +53,3 @@ Automação para cadastro de usuário na plataforma web do Zé Delivery utilizan
 4. Alterar encoding para UTF-8 (Ex. no Eclipse > Properties > Resource > Text file encoding > UTF-8)
 5. Executar a classe Runner (DesafioZeDelivery > src/test/java > br.com.web.runners > Runner.java)
 <p> <br />
-
-
-### ***Evidências e Relatório***
-Após a execução será criado um diretório na pasta raíz de nome screenshot para armazenar as evidências de sucesso ou falha e será gerado um relatório .html também na pasta raíz do projeto.
-<p> <br />
