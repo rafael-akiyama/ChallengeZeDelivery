@@ -29,20 +29,20 @@ Automação para cadastro de usuário na plataforma web do Zé Delivery utilizan
 
 ### ***Utilizado***
 
- -- Java
- -- Eclipse
- -- BDD
- -- Cucumber
- -- Selenium
- -- JUnit
- -- Page Objects
+ - Java
+ - Eclipse
+ - BDD
+ - Cucumber
+ - Selenium
+ - JUnit
+ - Page Objects
 <p> <br />
 
 ### ***Pré Requisito para execução***
 
--- Javas
--- IDE
--- Plugin Cucumber
+- Javas
+- IDE
+- Plugin Cucumber
 <p> <br />
 
 ### ***Como executar o teste***
