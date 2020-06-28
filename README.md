@@ -53,3 +53,12 @@ Automação para cadastro de usuário na plataforma web do Zé Delivery utilizan
 4. Alterar encoding para UTF-8 (Ex. no Eclipse > Properties > Resource > Text file encoding > UTF-8)
 5. Executar a classe Runner (DesafioZeDelivery > src/test/java > br.com.web.runners > Runner.java)
 <p> <br />
+ 
+ ### ***Pontos a serem considerados***
+Foi feito buscas dos elementos utilizando id, name e xpath, para ficar claro que eu consigo sair do outro lado, sei que a melhor forma é por id ou name.
+
+### ***Melhorias para fazer no site***
+1. Quando cadastramos um novo usuário, é exigido que a senha tenha pelo menos 1 caracter sendo número, porém não aceita a senha somente com números e isso não está explícito.
+2. A validação de campo único está sendo feito pelo e-mail, na minha opnião poderia ser utilizado o CPF, pois não tem motivos para o mesmo CPF ter mais de um cadastro.
+3. Quando abri um novo ticket de suporte, através do link Me ajuda, Zé, no formulário, os campos que estão como obrigatórios para fazer o preenchimento, estão em inglês e poderiam estar em português, como todo o site.
+ 
